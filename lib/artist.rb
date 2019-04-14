@@ -1,6 +1,6 @@
 class Artist
   
-  attr_accessor :name, 
+  attr_accessor :name
   
   @@all = []
   
@@ -18,7 +18,7 @@ class Artist
     
   end
   
-  def songs 
+  
     
   
 end
