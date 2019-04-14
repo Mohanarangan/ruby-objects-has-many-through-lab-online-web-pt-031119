@@ -21,7 +21,7 @@ class Artist
   
   def songs
   Song.all.select do |song|
-    song.artist
+    song.artist = 
     
   end
   
