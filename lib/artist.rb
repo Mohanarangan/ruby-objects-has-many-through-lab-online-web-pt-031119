@@ -9,7 +9,6 @@ class Artist
     @genre = genre
     @@all << self
     
-    
   end
   
   def self.all
