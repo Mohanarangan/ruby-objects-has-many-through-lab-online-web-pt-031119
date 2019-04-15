@@ -25,6 +25,10 @@ def appointments
   appointment.doctor == self 
   end
 end
+
+def patients
+  A
+end
   
   
 end
