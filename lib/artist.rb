@@ -25,7 +25,8 @@ class Artist
   end
   
   def genres
-    s
+    songs. map do |song|
+      
     
     
   end
