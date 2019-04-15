@@ -19,6 +19,9 @@ def new_appointment(patient, date)
   #binding.pry
   
 end
+
+def appointments
+end
   
   
 end
