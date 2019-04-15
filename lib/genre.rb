@@ -22,8 +22,9 @@ class Genre
   end
   
   def artists
-    binding.pry
+    #binding.pry
     songs.map do |song|
+      binding.pry
     
       
     end
