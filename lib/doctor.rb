@@ -1,3 +1,4 @@
+
 class Doctor
   attr_accessor :name
 
@@ -11,6 +12,10 @@ end
 
 def self.all
   @@all
+end
+
+def new_appointment(date, patient)
+  binding.pry
 end
   
   
