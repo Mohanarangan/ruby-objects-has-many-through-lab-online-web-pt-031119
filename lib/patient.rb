@@ -16,7 +16,7 @@ class Patient
   end
   
   def appointments
-    
+    Appointment.all.select
     
   end
     
