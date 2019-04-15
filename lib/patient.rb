@@ -21,6 +21,10 @@ class Patient
     end
   end
   
+  def doctors
+    appointments.map
+  end
+  
   
   
   
