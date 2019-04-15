@@ -25,6 +25,7 @@ class Artist
   end
   
   def genres
+    s
     
     
   end
